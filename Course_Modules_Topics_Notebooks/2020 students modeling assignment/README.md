@@ -7,9 +7,5 @@ Barotropic instability occurs in regions of strong shear like the edges of jet. 
 
 *Animation of a.*
 
-\begin{aligned}
-\dot{x} & = \sigma(y-x) \\
-\dot{y} & = \rho x - y - xz \\
-\dot{z} & = -\beta z + xy
-\end{aligned}
+
 
