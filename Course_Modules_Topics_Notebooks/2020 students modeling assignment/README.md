@@ -7,5 +7,8 @@ Barotropic instability occurs in regions of strong shear like the edges of jet. 
 
 *Animation of a.*
 
+This expression $\sqrt{3x-1}+(1+x)^2$ is an example of a TeX inline equation in a **[Markdown-formatted](http://daringfireball.net/projects/markdown/)** sentence.
+
+
 
 
